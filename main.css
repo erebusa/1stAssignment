@@ -1,0 +1,51 @@
+ body{
+     background-image: url("img/unnamed.jpg");
+     
+}
+#div1{
+    margin-top: 90px;
+}
+#up{
+    width: 460px;
+    height: 100px;
+    margin: auto;
+    color: orange;
+    background-color:#252522;
+    padding:10px;
+    border-radius: 6px 6px 0px 0px;
+    text-align: center;
+}
+#center{
+    width: 460px;
+    height: 400px;
+    margin: auto;
+    color: white;
+    background-color:#3a3a3a;
+    padding:10px;
+    border-radius: 0px 0px 6px 6px;
+    text-align: center;
+}
+p{
+    font-size: large;
+}
+button {
+    background-color: orange;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+    height: 57px;
+    width: 350px;
+    border: none;
+    margin: auto;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+button:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+footer{
+    text-align: center;
+    line-height: 5.0;
+    font-size: small;
+}
